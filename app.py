@@ -17,7 +17,7 @@ st.set_page_config(page_title="IoT Compressive Sensing", page_icon="📶", layou
 st.title("📶 Low-Power IoT Biomedical Compressive Sensing & Telemetry")
 st.markdown(
     "**Sub-Nyquist Wireless Transmission for Wearable Health Monitors** | "
-    "*[GitHub Repository](https://github.com/hnosrati0-source/iot-compressive-sensing)*"
+    "*[GitHub Repository](https://github.com/hosseinnosrati/iot-compressive-sensing)*"
 )
 st.caption("Drastically extends battery life by reducing on-air wireless transmission volume by 50% to 80%.")
 

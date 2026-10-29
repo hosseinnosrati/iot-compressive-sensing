@@ -67,7 +67,7 @@ Benchmarked on an **Intel Pentium Dual-Core T2330 @ 1.60 GHz**:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/hnosrati0-source/iot-compressive-sensing.git
+git clone https://github.com/hosseinnosrati/iot-compressive-sensing.git
 cd iot-compressive-sensing
 ```
 
