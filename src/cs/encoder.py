@@ -46,3 +46,4 @@ class CompressiveEncoder:
         """
         assert len(signal_block) == self.N, f"Expected block size {self.N}, got {len(signal_block)}"
         return np.dot(self.Phi, signal_block)
+

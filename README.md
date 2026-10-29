@@ -86,15 +86,5 @@ streamlit run app.py
 
 ---
 
-## 📜 How to Reference in Academic Applications / CV
-
-> **Low-Power IoT Compressive Sensing & Telemetry | Python, Optimization, Signal Processing**
-> * Developed an ultra-low-power compressive sensing (CS) telemetry pipeline for continuous ECG monitoring on battery-constrained IoMT sensor nodes.
-> * Reduced wireless transmission volume by 70% using random sub-Gaussian measurement matrices, drastically decreasing RF transceiver power consumption.
-> * Implemented Orthogonal Matching Pursuit (OMP) sparse recovery in DCT basis on the gateway, achieving 1.45% PRD error (<2% clinical threshold) with 0.024 ms node encoding latency.
-> * Repository: `https://github.com/hnosrati0-source/iot-compressive-sensing`
-
----
-
 ## ⚖️ License
 Licensed under the **MIT License**.

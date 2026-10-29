@@ -60,3 +60,4 @@ ax2.grid(True, linestyle="--", alpha=0.5)
 ax2.legend(loc="upper right")
 
 st.pyplot(fig)
+
